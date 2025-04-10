@@ -32,8 +32,12 @@ Develop a predictive model to estimate final student performance using multivari
 
 ## Dataset
 
-- Source: [UCI Machine Learning Repository – Student Performance](https://archive.ics.uci.edu/ml/datasets/student+performance)
-- CSV file: [student-mat.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student-mat.csv)
+## Dataset
+
+- Source: [UCI Machine Learning Repository – Student Performance](https://archive.ics.uci.edu/dataset/320/student+performance)
+
+This dataset includes attributes such as parental education, study time, academic history, and behavioral indicators collected from students in Portuguese schools. It is available for download as a `.zip` file that contains the `student-mat.csv` file.
+
 
 This dataset includes attributes such as parental education, study time, academic history, and behavioral indicators collected from students in Portuguese schools.
 
